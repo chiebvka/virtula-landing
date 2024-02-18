@@ -1,4 +1,4 @@
-import React from 'react'
+
 import DesktopNavigation from './DesktopNavigation'
 import MobileNavigation from './MobileNavigation'
 import Alternate from './Alternate'

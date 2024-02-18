@@ -24,7 +24,8 @@ const childrenVariants = {
 }
 
 function App() {
-  const { scrollYProgress: completionProgress } = useScroll()
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
+  useScroll()
  
   const containerRef = useRef(null)
   

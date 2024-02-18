@@ -1,5 +1,4 @@
 import { Facebook, Instagram, Twitter } from 'lucide-react'
-import React from 'react'
 
 
 
