@@ -22,7 +22,7 @@ const navigation = [
 
 export default function MobileNavigation() {
   return (
-    <div className='mx-auto  lg:hidden w-full items-center border-2 border-black justify-between p-3 '>
+    <div className='mx-auto  lg:hidden w-full items-center  justify-between p-3 '>
         {/* <div className="fixed inset-0 z-50" /> */}
         <div className='flex justify-between'>
                 <Sheet >
