@@ -41,7 +41,7 @@ export default function Subscribe() {
             </div>
             <dt className="mt-4 font-semibold text-white">Latest Updates</dt>
             <dd className="mt-2 leading-7 text-gray-400">
-              Latest Updates on our productsd and in the ever changing world of technology
+              Latest Updates on our products and in the ever changing world of technology
             </dd>
           </div>
           <div className="flex flex-col items-start">
@@ -50,7 +50,7 @@ export default function Subscribe() {
             </div>
             <dt className="mt-4 font-semibold text-white">Get Discounts</dt>
             <dd className="mt-2 leading-7 text-gray-400">
-              get notified on discounts offered by us and our partners 
+              Get notified on discounts offered by us and our partners 
             </dd>
           </div>
         </dl>
